@@ -1,50 +1,90 @@
-Çifte8 - Privacy Policy
+1. Toplanan Veriler
 
-Last updated: October 8, 2025
+2248 Bulmaca, kullanıcıdan kişisel bilgi toplamaz.
+Uygulamamızda bir hesap oluşturma, kaydolma, giriş yapma, sosyal medya bağlantısı veya kullanıcı bilgisi gerektiren herhangi bir özellik yoktur.
 
-Welcome to Çifte8, a mobile puzzle game developed by Sabri Caner.
+Ancak uygulamada kullanılan üçüncü taraf hizmetleri nedeniyle aşağıdaki cihaz bilgileri toplanabilir:
 
-This Privacy Policy explains how we handle your information when you use our game.
+✔ Cihaz Tanımlayıcıları
 
-1. Information We Collect
+Üçüncü taraf SDK’lar (Google AdMob gibi):
 
-We do not collect personal information directly.
-However, third-party services integrated into the game (such as Unity Ads or Unity Analytics) may collect:
+Reklam Kimliği (AAID)
 
-Advertising identifiers (e.g., Google Advertising ID)
+Cihaz modeli
 
-Device information (model, OS version, language)
+İşletim sistemi sürümü
 
-Gameplay data and ad interactions
+Ülke ve dil bilgisi
 
-2. How We Use Information
+IP’ye dayalı bölgesel bilgi
 
-Collected data helps improve game performance, display relevant ads, and analyze gameplay statistics.
+Bu veriler, uygulamanın çalışması ve reklam gösterimi için kullanılır.
 
-3. Third-Party Services
+2. Üçüncü Taraf Hizmetleri
 
-Our game uses:
+Uygulamamız aşağıdaki üçüncü taraf hizmetlerini kullanır:
 
-Unity Ads — Unity Privacy Policy
+✔ Google AdMob
 
-Unity Analytics — Unity Data Collection Details
+Reklam amacıyla cihaz bilgilerini toplar ve işler.
+Google’ın gizlilik politikası:
+https://policies.google.com/privacy
 
-These services may collect anonymized data for analytics and advertising.
+✔ Unity IAP (Eğer IAP aktifse)
 
-4. Children’s Privacy
+Satın alma işlemlerinin Google Play tarafından doğrulanması için kullanılır.
 
-Our game is suitable for all ages and does not knowingly collect data from children under 13.
+Bu üçüncü taraflar verileri kendi gizlilik politikalarına göre işler.
 
-5. Data Security
+3. Toplanan Verilerin Kullanım Amaçları
 
-We rely on Unity’s security systems to protect collected data.
+Toplanan veriler şu amaçlarla kullanılabilir:
 
-6. Changes
+Reklam veya pazarlama (AdMob tarafından)
 
-We may update this policy from time to time. Changes will be posted on this page.
+Uygulama işlevselliği (reklamların doğru çalışması)
 
-7. Contact
+Kişiselleştirme, kullanıcı takibi, hesap yönetimi, sosyal medya bağlantısı veya benzeri bir kullanım yapılmaz.
 
-If you have any questions about this Privacy Policy, you can contact:
+4. Verilerin Paylaşımı
+
+Uygulama doğrudan kullanıcı verisi paylaşmaz.
+Ancak üçüncü taraf hizmetler (örn. Google AdMob) toplanan cihaz bilgilerini kendi sistemleriyle paylaşabilir.
+Bu paylaşım GencoGames tarafından değil, ilgili üçüncü taraf servisler tarafından yapılır.
+
+5. Veri Güvenliği
+
+Uygulamada kullanılan tüm SDK’lar verileri HTTPS üzerinden şifreli olarak iletir.
+Kullanıcıya ait kişisel veri tarafımızca saklanmaz.
+
+6. Çocuklara Yönelik Gizlilik
+
+Uygulama çocuklara yönelik özel veri işlemez.
+Aile Politikası gerekliliklerine uygun çalışır.
+
+7. Kullanıcı Hakları
+
+Kullanıcı uygulamada:
+
+Kayıt olmadığından,
+
+Hesap oluşturmadığından,
+
+Kişisel bilgi paylaşmadığından
+
+silme / dışa aktarma gibi talepler geçerli değildir.
+
+Üçüncü taraf servisler (örn. Google) için talepler ilgili firmalara yönlendirilmelidir.
+
+8. Gizlilik Politikası Değişiklikleri
+
+Bu politika gerektiğinde güncellenebilir.
+Değişiklikler bu sayfada yayınlanacaktır.
+
+9. İletişim
+
+Her türlü soru için:
 📧 s.canergenco@gmail.com
 
+Geliştirici: GencoGames
