@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy Policy for Çifte8 mobile game
+Privacy Policy for 2248 Bulmaca mobile game
